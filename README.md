@@ -1,6 +1,6 @@
 # GoIntellegence
 
-Gorest is Golang library for Artificial Intellegence, Machine Learning and Data Analytics.
+GoIntellegence is Golang library for Artificial Intellegence, Machine Learning and Data Analytics.
 
 # How To Use
 
